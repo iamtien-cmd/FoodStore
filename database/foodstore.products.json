@@ -1,0 +1,445 @@
+[{
+  "_id": {
+    "$oid": "6ac661cd7f4281c78630c73b"
+  },
+  "name": "Chicken Biryani",
+  "description": "Halal chicken biryani",
+  "price": 85000,
+  "image": "https://gimmedelicious.com/wp-content/uploads/2023/04/Images-23.jpg",
+  "category": {
+    "$oid": "6ac66140f57dce19bb19e469"
+  },
+  "isHalal": true,
+  "stock": 20,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-10-07T15:14:21.749Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-07T15:14:21.749Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac9ea5b6af2848f3cd11f11"
+  },
+  "name": "Beef Biryani",
+  "description": "Fragrant basmati rice with halal beef",
+  "price": 95000,
+  "image": "https://kitchendiariesbyzubda.com/wp-content/uploads/2024/12/IMG_6939-min-scaled.jpeg",
+  "category": {
+    "$oid": "6ac66140f57dce19bb19e469"
+  },
+  "isHalal": true,
+  "stock": 25,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6ac9ea5b6af2848f3cd11f12"
+  },
+  "name": "Mutton Biryani",
+  "description": "Spiced basmati rice with tender mutton",
+  "price": 115000,
+  "image": "https://tse3.mm.bing.net/th/id/OIP.-FpVTvpCHfmuP3nedmscDQHaE8?r=0&pid=Api&h=220&P=0",
+  "category": {
+    "$oid": "6ac66140f57dce19bb19e469"
+  },
+  "isHalal": true,
+  "stock": 18,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6ac9ea5b6af2848f3cd11f13"
+  },
+  "name": "Chicken Fried Rice",
+  "description": "Fried rice with chicken and vegetables",
+  "price": 65000,
+  "image": "https://www.jessicagavin.com/wp-content/uploads/2021/02/chicken-fried-rice-21-1200.jpg",
+  "category": {
+    "$oid": "6ac66140f57dce19bb19e469"
+  },
+  "isHalal": true,
+  "stock": 30,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6ac9ea5b6af2848f3cd11f14"
+  },
+  "name": "Beef Fried Rice",
+  "description": "Fried rice with seasoned beef",
+  "price": 75000,
+  "image": "https://insanelygoodrecipes.com/wp-content/uploads/2024/09/beef-fried-rice-14.jpg",
+  "category": {
+    "$oid": "6ac66140f57dce19bb19e469"
+  },
+  "isHalal": true,
+  "stock": 20,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6ac9ea5b6af2848f3cd11f15"
+  },
+  "name": "Chicken Shawarma",
+  "description": "Halal chicken wrap with garlic sauce",
+  "price": 55000,
+  "image": "https://tse1.mm.bing.net/th/id/OIP.RBAPYoXEHYxaDRboWT0NwgHaHa?r=0&pid=Api&h=220&P=0",
+  "category": {
+    "$oid": "6ac66140f57dce19bb19e469"
+  },
+  "isHalal": true,
+  "stock": 35,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6ac9ea5b6af2848f3cd11f16"
+  },
+  "name": "Beef Shawarma",
+  "description": "Beef wrap with fresh vegetables",
+  "price": 65000,
+  "image": "https://tse1.mm.bing.net/th/id/OIP.OkJRGp8Gr7UIOcLy57xyHAHaHa?r=0&pid=Api&h=220&P=0",
+  "category": {
+    "$oid": "6ac66140f57dce19bb19e469"
+  },
+  "isHalal": true,
+  "stock": 22,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6ac9ea5b6af2848f3cd11f17"
+  },
+  "name": "Chicken Kebab",
+  "description": "Grilled halal chicken kebab",
+  "price": 60000,
+  "image": "https://labelrecipes.com/wp-content/uploads/2025/04/u6966556431_Persian_Chicken_Kebabs_Joojeh_Kabab_-v_6.1_c2e6b96d-a51b-4855-b7e1-fd19fde17db1_0.webp",
+  "category": {
+    "$oid": "6ac66140f57dce19bb19e469"
+  },
+  "isHalal": true,
+  "stock": 28,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6ac9ea5b6af2848f3cd11f18"
+  },
+  "name": "Beef Kebab",
+  "description": "Grilled beef kebab with spices",
+  "price": 70000,
+  "image": "https://tse4.mm.bing.net/th/id/OIP.7IB2Btm5pljccbkzK8i6EgHaHa?r=0&pid=Api&h=220&P=0",
+  "category": {
+    "$oid": "6ac66140f57dce19bb19e469"
+  },
+  "isHalal": true,
+  "stock": 20,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6ac9ea5b6af2848f3cd11f19"
+  },
+  "name": "Chicken Satay",
+  "description": "Grilled chicken skewers with peanut sauce",
+  "price": 55000,
+  "image": "https://tse1.mm.bing.net/th/id/OIP.JhxMoW2UQOqQBVdgNzb9YgHaHa?r=0&pid=Api&h=220&P=0",
+  "category": {
+    "$oid": "6ac66140f57dce19bb19e469"
+  },
+  "isHalal": true,
+  "stock": 30,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6ac9ea5b6af2848f3cd11f1a"
+  },
+  "name": "Beef Satay",
+  "description": "Grilled beef skewers with savory sauce",
+  "price": 65000,
+  "image": "https://tse4.mm.bing.net/th/id/OIP.LYKJjYgQT_f4Ybsa90YVqwHaHa?r=0&pid=Api&h=220&P=0",
+  "category": {
+    "$oid": "6ac66140f57dce19bb19e469"
+  },
+  "isHalal": true,
+  "stock": 24,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6ac9f4dc6af2848f3cd11f1f"
+  },
+  "name": "Vietnamese Iced Coffee",
+  "description": "Strong Vietnamese coffee served over ice",
+  "price": 30000,
+  "category": {
+    "$oid": "CATEGORY_DRINKS_ID"
+  },
+  "stock": 50,
+  "image": "https://static.vinwonders.com/production/vietnamese-iced-coffee-6.jpg"
+},
+{
+  "_id": {
+    "$oid": "6ac9f5fe6af2848f3cd11f25"
+  },
+  "name": "Refreshing Vietnamese Iced Coffee",
+  "description": "Refreshing Vietnamese coffee served over ice",
+  "price": 30000,
+  "category": {
+    "$oid": "6ac6614ff57dce19bb19e46b"
+  },
+  "stock": 50,
+  "image": "https://i.pinimg.com/originals/f1/7c/1c/f17c1c2e80db9107373518ffdc81a93e.jpg"
+},
+{
+  "_id": {
+    "$oid": "6ac9f6076af2848f3cd11f27"
+  },
+  "name": "Mango Smoothie",
+  "description": "Creamy smoothie made with ripe mangoes",
+  "price": 45000,
+  "category": {
+    "$oid": "6ac6614ff57dce19bb19e46b"
+  },
+  "stock": 40,
+  "image": "https://tse2.mm.bing.net/th/id/OIP.0g3VGIEeYKShE4r--s-TPwHaK2?r=0&pid=Api&h=220&P=0"
+},
+{
+  "_id": {
+    "$oid": "6ac9f6116af2848f3cd11f29"
+  },
+  "name": "Fresh Orange Juice",
+  "description": "Freshly squeezed orange juice",
+  "price": 35000,
+  "category": {
+    "$oid": "6ac6614ff57dce19bb19e46b"
+  },
+  "stock": 40,
+  "image": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/fresh-squeezed-orange-juice-1.jpg"
+},
+{
+  "_id": {
+    "$oid": "6ac9f61a6af2848f3cd11f2b"
+  },
+  "name": "Thai Milk Tea",
+  "description": "Thai-style milk tea served chilled",
+  "price": 35000,
+  "category": {
+    "$oid": "6ac6614ff57dce19bb19e46b"
+  },
+  "stock": 35,
+  "image": "https://tse3.mm.bing.net/th/id/OIP.bMsxEraibU1K2Xlv4ExuTwHaI9?r=0&pid=Api&h=220&P=0"
+},
+{
+  "_id": {
+    "$oid": "6ac9f6246af2848f3cd11f2d"
+  },
+  "name": "Strawberry Yogurt Smoothie",
+  "description": "Refreshing strawberry and yogurt smoothie",
+  "price": 45000,
+  "category": {
+    "$oid": "6ac6614ff57dce19bb19e46b"
+  },
+  "stock": 30,
+  "image": "https://tse3.mm.bing.net/th/id/OIP.UNU5jViP7V5WuKVzIHxP7wHaLI?r=0&pid=Api&h=220&P=0"
+},
+{
+  "_id": {
+    "$oid": "6ac9f62d6af2848f3cd11f2f"
+  },
+  "name": "Iced Lemon Tea",
+  "description": "Black tea with fresh lemon and ice",
+  "price": 25000,
+  "category": {
+    "$oid": "6ac6614ff57dce19bb19e46b"
+  },
+  "stock": 40,
+  "image": "https://veganbell.com/wp-content/uploads/2020/08/Iced-Lemon-Tea-3-1536x1536.jpg"
+},
+{
+  "_id": {
+    "$oid": "6ac9f6386af2848f3cd11f31"
+  },
+  "name": "Watermelon Juice",
+  "description": "Fresh watermelon juice served chilled",
+  "price": 30000,
+  "category": {
+    "$oid": "6ac6614ff57dce19bb19e46b"
+  },
+  "stock": 35,
+  "image": "https://cdn.healthyrecipes101.com/recipes/images/juices/watermelon-carrot-juice-recipe-clh933ukc000sya1bfeuobrxk.jpg"
+},
+{
+  "_id": {
+    "$oid": "6ac9f6426af2848f3cd11f33"
+  },
+  "name": "Avocado Smoothie",
+  "description": "Creamy avocado smoothie",
+  "price": 40000,
+  "category": {
+    "$oid": "6ac6614ff57dce19bb19e46b"
+  },
+  "stock": 30,
+  "image": "https://cdn.loveandlemons.com/wp-content/uploads/2017/08/avocado-smoothie-recipe.jpg"
+},
+{
+  "_id": {
+    "$oid": "6ac9f64f6af2848f3cd11f35"
+  },
+  "name": "Iced Matcha Latte",
+  "description": "Japanese green tea with chilled milk",
+  "price": 45000,
+  "category": {
+    "$oid": "6ac6614ff57dce19bb19e46b"
+  },
+  "stock": 25,
+  "image": "https://tse3.mm.bing.net/th/id/OIP.Sx5Q0hMrjB3lRvZmzlqy-AHaHa?r=0&pid=Api&h=220&P=0"
+},
+{
+  "_id": {
+    "$oid": "6ac9f6626af2848f3cd11f37"
+  },
+  "name": "Fresh Coconut Water",
+  "description": "Fresh coconut water served chilled",
+  "price": 30000,
+  "category": {
+    "$oid": "6ac6614ff57dce19bb19e46b"
+  },
+  "stock": 40,
+  "image": "https://tse3.mm.bing.net/th/id/OIP.REf5ZvkmsrKOj8J3DUlb6wHaE8?r=0&pid=Api&h=220&P=0"
+},
+{
+  "_id": {
+    "$oid": "6ac9f66e6af2848f3cd11f39"
+  },
+  "name": "Chocolate Brownie",
+  "description": "Rich chocolate brownie with a soft center",
+  "price": 40000,
+  "category": {
+    "$oid": "6ac66156f57dce19bb19e46d"
+  },
+  "stock": 25,
+  "image": "https://tse4.mm.bing.net/th/id/OIP.bFzObBO66doQMVnDfE0pHAHaHa?r=0&pid=Api&h=220&P=0"
+},
+{
+  "_id": {
+    "$oid": "6ac9f6776af2848f3cd11f3b"
+  },
+  "name": "Mango Cheesecake",
+  "description": "Creamy cheesecake topped with fresh mango",
+  "price": 55000,
+  "category": {
+    "$oid": "6ac66156f57dce19bb19e46d"
+  },
+  "stock": 20,
+  "image": "https://recipestime.com/wp-content/uploads/2024/05/No-Bake-Mango-Cheesecake-2.webp"
+},
+{
+  "_id": {
+    "$oid": "6ac9f6826af2848f3cd11f3d"
+  },
+  "name": "Tiramisu",
+  "description": "Coffee-flavored layered dessert",
+  "price": 50000,
+  "category": {
+    "$oid": "6ac66156f57dce19bb19e46d"
+  },
+  "stock": 20,
+  "image": "https://tse4.mm.bing.net/th/id/OIP.-hBbgP1VXMmfd0S-baglcQHaHa?r=0&pid=Api&h=220&P=0"
+},
+{
+  "_id": {
+    "$oid": "6ac9f68f6af2848f3cd11f3f"
+  },
+  "name": "Vanilla Panna Cotta",
+  "description": "Smooth vanilla cream dessert",
+  "price": 35000,
+  "category": {
+    "$oid": "6ac66156f57dce19bb19e46d"
+  },
+  "stock": 25,
+  "image": "https://tse4.mm.bing.net/th/id/OIP.L7guU6PQOUsS0tF5znNDDQHaHa?r=0&pid=Api&h=220&P=0"
+},
+{
+  "_id": {
+    "$oid": "6ac9f6986af2848f3cd11f41"
+  },
+  "name": "Chocolate Lava Cake",
+  "description": "Warm chocolate cake with a molten center",
+  "price": 55000,
+  "category": {
+    "$oid": "6ac66156f57dce19bb19e46d"
+  },
+  "stock": 15,
+  "image": "https://tse1.mm.bing.net/th/id/OIP.Ld-F3puelK_24-OXvGVOwwHaHa?r=0&pid=Api&h=220&P=0"
+},
+{
+  "_id": {
+    "$oid": "6ac9f6a16af2848f3cd11f43"
+  },
+  "name": "Strawberry Cheesecake",
+  "description": "Creamy cheesecake with strawberry topping",
+  "price": 55000,
+  "category": {
+    "$oid": "6ac66156f57dce19bb19e46d"
+  },
+  "stock": 20,
+  "image": "https://tse4.mm.bing.net/th/id/OIP.LjHRnkDWtIG84ek0m_cBgAHaKf?r=0&pid=Api&h=220&P=0"
+},
+{
+  "_id": {
+    "$oid": "6ac9f6ab6af2848f3cd11f45"
+  },
+  "name": "Chocolate Donut",
+  "description": "Soft donut covered with chocolate glaze",
+  "price": 25000,
+  "category": {
+    "$oid": "6ac66156f57dce19bb19e46d"
+  },
+  "stock": 30,
+  "image": "https://thefirstyearblog.com/wp-content/uploads/2020/10/chocolate-donuts-Square2.png"
+},
+{
+  "_id": {
+    "$oid": "6ac9f6b46af2848f3cd11f47"
+  },
+  "name": "Chocolate Donut",
+  "description": "Soft donut covered with chocolate glaze",
+  "price": 25000,
+  "category": {
+    "$oid": "6ac66156f57dce19bb19e46d"
+  },
+  "stock": 30,
+  "image": "https://tse2.mm.bing.net/th/id/OIP.ANROlm0nhRzlfz983a-1YAHaLH?r=0&pid=Api&h=220&P=0"
+},
+{
+  "_id": {
+    "$oid": "6ac9f6be6af2848f3cd11f49"
+  },
+  "name": "Vanilla Ice Cream",
+  "description": "Classic vanilla ice cream",
+  "price": 25000,
+  "category": {
+    "$oid": "6ac66156f57dce19bb19e46d"
+  },
+  "stock": 30,
+  "image": "https://tse2.mm.bing.net/th/id/OIP.cS-vantzMfqxGxBAvrOgLgHaHa?r=0&pid=Api&h=220&P=0"
+},
+{
+  "_id": {
+    "$oid": "6ac9f6c76af2848f3cd11f4b"
+  },
+  "name": "Caramel Flan",
+  "description": "Silky custard pudding with caramel sauce",
+  "price": 25000,
+  "category": {
+    "$oid": "6ac66156f57dce19bb19e46d"
+  },
+  "stock": 25,
+  "image": "https://tse1.mm.bing.net/th/id/OIP.RhcTiDqjXo77d7pNoEWsPAHaJQ?r=0&pid=Api&h=220&P=0"
+}]

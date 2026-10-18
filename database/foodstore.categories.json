@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6ac66140f57dce19bb19e469"
+  },
+  "name": "Main Dishes",
+  "description": "Halal main dishes",
+  "image": "main-dishes.jpg",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6ac6614ff57dce19bb19e46b"
+  },
+  "name": "Drinks",
+  "description": "Halal drinks",
+  "image": "drinks.jpg",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6ac66156f57dce19bb19e46d"
+  },
+  "name": "Desserts",
+  "description": "Halal desserts",
+  "image": "desserts.jpg",
+  "isActive": true
+}]

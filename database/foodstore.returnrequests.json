@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6ac8f580db4e66427a91012f"
+  },
+  "order": {
+    "$oid": "6ac665b49c2c543b083c7b86"
+  },
+  "customer": {
+    "$oid": "6ac652fe3c539cbd61fa8d36"
+  },
+  "reason": "The food arrived damaged",
+  "status": "approved",
+  "createdAt": {
+    "$date": "2026-10-09T14:09:04.961Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-09T14:15:43.055Z"
+  },
+  "__v": 0
+}]

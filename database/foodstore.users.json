@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6ac6053bd7aee166fe8ebd3a"
+  },
+  "name": "Nguyen Van A",
+  "email": "shipper@gmail.com",
+  "password": "$2b$10$iAikYLpC2palXjIk9qjqSex7pSjiofejRfc0l4GCyA5i7x9UKLD.y",
+  "role": "shipper"
+},
+{
+  "_id": {
+    "$oid": "6ac652fe3c539cbd61fa8d36"
+  },
+  "name": "Tien",
+  "email": "tien@gmail.com",
+  "password": "$2b$10$iAikYLpC2palXjIk9qjqSex7pSjiofejRfc0l4GCyA5i7x9UKLD.y",
+  "role": "customer",
+  "createdAt": {
+    "$date": "2026-10-07T14:11:10.883Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-07T14:11:10.883Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac65e23f57dce19bb19e464"
+  },
+  "name": "Food Store Admin",
+  "email": "admin@foodstore.com",
+  "password": "$2b$10$iAikYLpC2palXjIk9qjqSex7pSjiofejRfc0l4GCyA5i7x9UKLD.y",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2026-10-07T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-07T00:00:00.000Z"
+  }
+}]

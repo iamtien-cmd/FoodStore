@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6ac665b49c2c543b083c7b86"
+  },
+  "customer": {
+    "$oid": "6ac652fe3c539cbd61fa8d36"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "6ac661cd7f4281c78630c73b"
+      },
+      "quantity": 2,
+      "price": 85000
+    }
+  ],
+  "totalAmount": 170000,
+  "deliveryAddress": "123 Nguyen Van Linh, District 7, HCMC",
+  "status": "delivered",
+  "shipper": {
+    "$oid": "6ac6053bd7aee166fe8ebd3a"
+  },
+  "createdAt": {
+    "$date": "2026-10-07T15:31:00.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-07T15:59:39.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aca126b2303da3fb7c637b9"
+  },
+  "customer": {
+    "$oid": "6ac652fe3c539cbd61fa8d36"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "6ac9ea5b6af2848f3cd11f11"
+      },
+      "quantity": 1,
+      "price": 95000
+    }
+  ],
+  "totalAmount": 95000,
+  "deliveryAddress": "549/74 Xô viết nghệ tĩnh, HCM, 700000",
+  "status": "delivered",
+  "shipper": {
+    "$oid": "6ac6053bd7aee166fe8ebd3a"
+  },
+  "createdAt": {
+    "$date": "2026-10-10T10:24:43.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-10T10:52:14.064Z"
+  },
+  "__v": 0
+}]
