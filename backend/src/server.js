@@ -15,13 +15,16 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 
 // CORS: cho phép frontend Vite truy cập backend
-app.use(
-  cors({
-    origin: "http://localhost:5173",
-    methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
-    allowedHeaders: ["Content-Type", "Authorization"],
-  })
-);
+const allowedOrigins = [
+  "http://localhost:5173",
+  "https://foodstore-kjjql307g-iamtien-cmds-projects.vercel.app",
+  // Thêm domain Vercel production chính thức của bạn nếu khác
+];
+
+app.use(cors({
+  origin: allowedOrigins,
+  credentials: true,
+}));
 
 // Middleware
 app.use(express.json());
