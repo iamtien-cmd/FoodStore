@@ -1,3 +1,4 @@
+
 import axios from "axios";
 
 const api = axios.create({
@@ -6,6 +7,7 @@ const api = axios.create({
     (import.meta.env.MODE === "production"
       ? "https://foodstore-backend-xgbq.onrender.com/api"
       : "http://localhost:5000/api"),
+
   headers: {
     "Content-Type": "application/json",
   },
