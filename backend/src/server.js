@@ -17,7 +17,7 @@ const PORT = process.env.PORT || 5000;
 // CORS: cho phép frontend Vite truy cập backend
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://foodstore-kjjql307g-iamtien-cmds-projects.vercel.app",
+  "https://foodstore-frontend-gamma.vercel.app",
   // Thêm domain Vercel production chính thức của bạn nếu khác
 ];
 
